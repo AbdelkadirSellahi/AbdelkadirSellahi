@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://camo.githubusercontent.com/68a62542366acf8f2c2ff9384b22678a9cd5b6500d66239bc33c940191b32d9c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966" height="250" alt="stats graph"  />
+</div>
+
 # Hi there, I'm Abdelkadir Sellahi! 👋
 
-I'm a passionate Computer Science student with a keen interest in Artificial Intelligence and its applications. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+I'm a passionate Computer Science student Specialization in Artificial Intelligence and its applications. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
 ## About Me
 
@@ -40,8 +44,8 @@ I'm a passionate Computer Science student with a keen interest in Artificial Int
 ## Skills 🛠️
 
 - **Programming Languages**: Python, C/C++, Java, HTML/CSS/JS, PHP, R, SQL.
-- **Frameworks | Libraries**: TensorFlow, PyTorch, Keras, OpenCV, Nltk, Spacy, Sklearn, Numpy, Pandas, Laravel.
-- **Concepts | Methodologies**: Machine Learning, Deep Learning, Computer Vision, NLP, Problem Solving, Combinatorial Optimization, IoT, Cloud Computing, Git/Github.
+- **Frameworks | Libraries**: TensorFlow, PyTorch, Keras, OpenCV, Nltk, Spacy, Sklearn, Numpy, Pandas, Jade, Laravel, MVC Architecture.
+- **Concepts | Methodologies**: Machine Learning, Deep Learning, Computer Vision, NLP, Problem Solving, IoT, Optimization Algorithms, Cloud Computing, OOP, Multi-Agent Systems, Git/Github.
 
 ## Let's Connect! 🌐
 
