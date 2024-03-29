@@ -15,14 +15,6 @@ I'm a passionate Computer Science student Specialization in Artificial Intellige
 - 👯 I’m looking to collaborate on projects related to computer vision and data science.
 - 💬 Ask me about my projects or anything related to technology!
 
-## Education 🎓
-
-- **Master in Computer Science, Specialization in Artificial Intelligence**  
-  Abdelhafid Boussouf University Center, Mila, Algeria   _2022 - Present_
-
-- **Bachelor in Computer Science, Specialization in Computer Systems**  
-  Abdelhafid Boussouf University Center, Mila, Algeria   _2019 - 2022_
-
 ## Projects In Progress 🚀
 
 ### DisasterVision System
@@ -36,13 +28,6 @@ I'm a passionate Computer Science student Specialization in Artificial Intellige
 
 - Implementing Simulated Annealing and Tabu Search Algorithms for solving the [Knapsack problem](https://www.geeksforgeeks.org/introduction-to-knapsack-problem-its-types-and-how-to-solve-them/) ( Sac à Dos Problem ).
 
-## Certifications and Awards 🏆
-
-- Fundamentals of Deep Learning | NVIDIA DLI (Workshop) [Link](https://courses.nvidia.com/certificates/a21d788e4e3c4ec182a26ad8f4b8cddd/)
-- Disaster Risk Monitoring Using Satellite Imagery | NVIDIA DLI (Online Course/Test) [Link](https://courses.nvidia.com/certificates/a16324a2a8294fc4ae90a9175f86ce29/)
-- Problem Solving | HackerRank (Online Test) [Link](https://www.hackerrank.com/certificates/6ad7d5d25315)
-- 5-Star Student Certificate | C.U. Abdelhafid Boussouf
-
 ## Skills 🛠️
 
 - **Programming Languages**: Python, C/C++, Java, HTML/CSS/JS, PHP, R, SQL.
@@ -52,4 +37,3 @@ I'm a passionate Computer Science student Specialization in Artificial Intellige
 ## Let's Connect! 🌐
 
 - 📧 Email: [sellahi.abdelkadir.etu@centre-univ-mila.dz](mailto:sellahi.abdelkadir.etu@centre-univ-mila.dz)
-
