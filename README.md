@@ -10,19 +10,25 @@
 
 I'm a passionate Computer Science student Specializing in Artificial Intelligence and its applications. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
-## About Me
-
 - 🔭 I’m currently working on building innovative solutions using AI and advanced algorithms.
 - 🌱 I’m currently learning advanced topics in machine learning, deep learning, and NLP.
 - 👯 I’m looking to collaborate on projects related to computer vision and data science.
 - 💬 Ask me about my projects or anything related to technology!
+---
+## 🚀 Skills & Technologies
 
-## Skills 🛠️
+### 🖥️ Programming Languages  
+🐍 Python | 💻 C/C++ | ☕ Java | 🌐 HTML/CSS/JS | 🐘 PHP | 📊 R | 🛢️ SQL  
 
-- **Programming Languages**: Python, C/C++, Java, HTML/CSS/JS, PHP, R, SQL.
-- **Frameworks | Libraries**: TensorFlow, PyTorch, Keras, OpenCV, Nltk, Spacy, Sklearn, Numpy, Pandas, Jade, Laravel, MVC Architecture.
-- **Concepts | Methodologies**: Machine Learning, Deep Learning, Computer Vision, NLP, Problem Solving, IoT, Optimization Algorithms, Cloud Computing, OOP, Multi-Agent Systems, Git/Github.
+### 📚 Frameworks & Libraries  
+🔬 TensorFlow | 🔥 PyTorch | 🤖 Keras | 👀 OpenCV | 📝 NLTK | 🗣️ SpaCy | 📊 Sklearn | 🔢 NumPy | 📈 Pandas | 🟢 Jade | 🏗️ Laravel | 🏛️ MVC  
+
+### 💡 Concepts & Methodologies  
+🧠 Machine Learning | 🤖 Deep Learning | 🎯 Computer Vision | 🗣️ NLP | 🧩 Problem Solving | 🌎 IoT | 🏆 Optimization | ☁️ Cloud Computing | 🏛️ OOP | 🤝 Multi-Agent Systems | 🛠️ Git/GitHub  
+
 
 ## Let's Connect! 🌐
 
 - 📧 Email: [sellahi.abdelkadir.etu@centre-univ-mila.dz](mailto:sellahi.abdelkadir.etu@centre-univ-mila.dz)
+- 📧 Email: [abdelkadirsellahi@gmail.com](mailto:abdelkadirsellahi@gmail.com)
+- 📞 WhatsApp: [+213776818895](https://wa.me/213776818895)
